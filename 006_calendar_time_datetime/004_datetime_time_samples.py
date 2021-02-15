@@ -1,5 +1,8 @@
 import datetime
 
+# Documentation
+# https://docs.python.org/3/library/datetime.html
+
 t = datetime.time(13, 24, 10)
 print(t)  # Will print time with all parameters
 print(t.hour)  # Will print only hours

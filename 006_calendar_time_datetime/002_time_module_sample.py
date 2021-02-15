@@ -1,5 +1,8 @@
 import time
 
+# Documentation
+# https://docs.python.org/3/library/time.html
+
 start = time.time()
 time.sleep(7)  # Will pause program for seconds given in ()
 

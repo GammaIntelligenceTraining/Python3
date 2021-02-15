@@ -1,5 +1,8 @@
 import calendar
 
+# Documentation
+# https://docs.python.org/3/library/calendar.html
+
 # W stands for width, L stands for length
 print(calendar.month(2020, 11, w=10, l=0))
 

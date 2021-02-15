@@ -1,5 +1,8 @@
 import datetime
 
+# Documentation
+# https://docs.python.org/3/library/datetime.html
+
 # Single dates
 d = datetime.date(2018, 7, 22)  # Need arguments not to get an error, 07 will give error too
 print(d)
