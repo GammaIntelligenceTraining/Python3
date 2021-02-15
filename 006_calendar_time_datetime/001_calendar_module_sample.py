@@ -1,5 +1,8 @@
 import calendar
 
+# Python standard libraries list
+# https://docs.python.org/3/py-modindex.html
+
 # Documentation
 # https://docs.python.org/3/library/calendar.html
 
