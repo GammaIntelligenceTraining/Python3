@@ -1,0 +1,39 @@
+# get list of all pip commands
+pip help
+
+# get list of all pip parameters for one command
+pip help install
+
+# install a package
+pip install <packagename>
+
+# uninstall a package
+pip uninstall <packagename>
+
+# get list of all packages installed
+pip list
+pip list --outdated  # List outdated packages
+pip list -o
+
+# show package info
+pip show <packagename>
+
+
+# upgrade a package
+pip install -U <packagename>
+
+# show all programs and versions
+pip freeze
+
+# save it to a file
+pip freeze > requirements.txt
+
+# install packages listed in requirements.txt file
+pip install -r requrements.txt
+
+# install specific version of package
+pip install <packagename>==<version>
+
+
+
+
